@@ -13,8 +13,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Interactable Object
+  - Canvas
   - 
   - 
   - 
@@ -43,4 +43,10 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 3796812027
+    locked: 0
+  - name: Interactable Object
+    uniqueID: 1812210927
+    locked: 0
+  - name: Canvas
+    uniqueID: 1076456427
     locked: 0

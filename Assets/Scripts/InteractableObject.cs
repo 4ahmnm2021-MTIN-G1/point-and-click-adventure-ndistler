@@ -24,12 +24,17 @@ public class InteractableObject : MonoBehaviour
     }
     public void OnMouseDown()
     {
+        Vector3 newPosition = new Vector3(transform.position.x, transform.position.y, 0);
         commandMenu.active = true;
-        commandMenu.transform.position  = transform.position;
+        commandMenu.transform.position  = newPosition ;
 
         uiManager.activeIO = this; //this = eigenes Objekt
 
-        //dialogFenster.text = inspectText;
+    }
+
+    public void OnMouseExit()
+    {
+        commandMenu.active = false;
     }
 }
 
