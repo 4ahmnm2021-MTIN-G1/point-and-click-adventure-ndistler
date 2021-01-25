@@ -33,4 +33,9 @@ public class PlayerMovementClick : MonoBehaviour
         playerPos = new Vector3(worldPos.x, worldPos.y, thisTransform.position.z);
         //camPos = new Vector3(worldPos.x, worldPos.y, cam.position.z);
     }   
+
+    public void Enter()
+    {
+        playerPos = new Vector3 (2, -4, 0);
+    }
 }
