@@ -8,9 +8,9 @@ Play the game here:
 
 
 ### Development platform
-* Mac OS Mojave \n
-* Unity Version 2019.1.14f1 \n
-* Visual Studio Code Version 1.36.1 \n
+* Mac OS Mojave
+* Unity Version 2019.1.14f1
+* Visual Studio Code Version 1.36.1
 
 
 ### Target platform
