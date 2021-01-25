@@ -4,7 +4,7 @@
 You're a highly regarded detective in the city. The police called you to investigate in an odd case. An old lady states that someone has broken into her house and stole her jewelry. Your job is to inspect all objects in her room where the burglar could have looked for her treasures and find the thiefs fingerprints. 
 But be aware: The burglar knew that the old lady didn't have her precious stuff hidden in ordinary places.
 
-Play the game here:
+Play the game here: https://4ahmnm2021-mtin-g1.github.io/point-and-click-adventure-ndistler/
 
 
 ### Development platform
